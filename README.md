@@ -25,8 +25,6 @@ You can find me:
 </div>
 
 
-![Snake Animation](https://github.com/NarcissJunior/NarcissJunior/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
