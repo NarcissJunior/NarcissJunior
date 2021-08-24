@@ -9,7 +9,7 @@ My Name is Narciso Junior. I'm from Brazil. I'm a web developer that has been wo
 You can find me:
 
 [
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narciso-dias-boldrin-junior-657276125/)
 
 
 
