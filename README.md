@@ -1,9 +1,9 @@
 # Narciso Dias Boldrin Junior 🌱
 
-My Name is Narciso Junior. I'm from Brazil. I'm a web developer that has been working with PHP, using clean code, TDD and SOLID principles.
+My Name is Narciso Junior. I'm from Brazil. I'm a software engineer that has been working with PHP, Go and clojure, using clean code, TDD and SOLID principles.
 
 - 📫 From Brazil
-- 🌱 Software Engineer at [PicPay](https://picpay.com/)
+- 🌱 Software Engineer at [Nubank](https://nubank.com.br/)
 - 💬 Sharing my studies and knowledge
 
 You can find me:
