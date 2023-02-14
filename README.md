@@ -1,9 +1,9 @@
 # Narciso Dias Boldrin Junior 🌱
 
-My Name is Narciso Junior. I'm from Brazil. I'm a software engineer that has been working with PHP, Go and clojure, using clean code, TDD and SOLID principles.
+My Name is Narciso Junior and I'm from Brazil. I'm a software engineer that has been working with PHP, Go, clojure and now Python. Always trying to use clean code, TDD and SOLID principles.
 
 - 📫 From Brazil
-- 🌱 Software Engineer at [Nubank](https://nubank.com.br/)
+- 🌱 Software Engineer at [Digit Gaming Studios](https://www.digitgaming.com/)
 - 💬 Sharing my studies and knowledge
 
 You can find me:
