@@ -2,8 +2,8 @@
 
 My Name is Narciso Junior and I'm from Brazil. I'm a software engineer that has been working with PHP, Go, clojure and now Python. Always trying to use clean code, TDD and SOLID principles.
 
-- 📫 From Brazil
-- 🌱 Software Engineer at [Digit Gaming Studios](https://www.digitgaming.com/)
+- 📫 From Brazil, living in Ireland
+- 🌱 Game Software Engineer at [Digit Gaming Studios](https://www.digitgaming.com/)
 - 💬 Sharing my studies and knowledge
 
 You can find me:
