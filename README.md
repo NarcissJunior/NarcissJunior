@@ -14,8 +14,7 @@ You can find me:
 <a href="https://discordapp.com/users/341064428168544257" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
-[
-![Linkedin]https://www.linkedin.com/in/narciso-junior-%F0%9F%91%BE-657276125/]
+[Linkedin](https://www.linkedin.com/in/narciso-junior-%F0%9F%91%BE-657276125/)
 
 
 
