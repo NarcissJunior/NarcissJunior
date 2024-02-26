@@ -15,7 +15,7 @@ You can find me:
 </div>
 
 [
-![Linkedin]https://www.linkedin.com/in/narciso-junior-%F0%9F%91%BE-657276125/
+![Linkedin]https://www.linkedin.com/in/narciso-junior-%F0%9F%91%BE-657276125/]
 
 
 
