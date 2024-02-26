@@ -1,8 +1,9 @@
 # Narciso Dias Boldrin Junior 🌱
 
-My Name is Narciso Junior and I'm from Brazil. I'm a software engineer that has been working with PHP, Go, clojure and now Python. Always trying to use clean code, TDD and SOLID principles.
+My Name is Narciso Junior and I'm from Brazil. I'm a software engineer working with Game Development but with a background with PHP, C# and Python. I code using the concepts of clean code, TDD and SOLID.
 
-- 📫 From Brazil, living in Ireland
+
+- 📫 From Brazil, living in Barcelona, Spain
 - 🌱 Game Software Engineer at [Digit Gaming Studios](https://www.digitgaming.com/)
 - 💬 Sharing my studies and knowledge
 
